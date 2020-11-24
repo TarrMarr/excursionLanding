@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+A project assignment from Codecademy's Full Stack Engineer program illustrating use of HTML5, CSS and Git/Github.  Instructions were given as to how it needed to be completed as shown in the redline.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
